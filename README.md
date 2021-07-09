@@ -2,7 +2,6 @@
 
 useStateStorage is a custom hook for react that allows you to save local state to local storage.
 
-
 ### example useage:
 
 ```
