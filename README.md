@@ -1,8 +1,8 @@
-# useStateStorage
+# useStateStorage - [Demo](https://codesandbox.io/s/usestatestorage-no7fb?file=/src/App.js)
 
 useStateStorage is a custom hook for react that allows you to save local state to local storage.
 
-### example useage:
+### example useage
 
 ```
 const [value, setValue] =  useStateStorage('id');

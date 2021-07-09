@@ -1,0 +1,28 @@
+{
+  "name": "usestatestorage",
+  "version": "1.0.1",
+  "description": "useStateStorage is a custom hook for react that allows you to save local state to local storage.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garethslinn/useStateStorage.git"
+  },
+  "keywords": [
+    "react",
+    "custom",
+    "hook",
+    "setStateStorage",
+    "state",
+    "localStorage",
+    "storage"
+  ],
+  "author": "G.D.Slinn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/garethslinn/useStateStorage/issues"
+  },
+  "homepage": "https://github.com/garethslinn/useStateStorage#readme"
+}
